@@ -1,7 +1,7 @@
 - 👋🏼 Hello, I'm daoraCode
 - Passionate by UI/UX Designs and immersive websites
 - Currently working on JavaScript/VueJS/ReactJS and other ressources projects related to Web Development
-- ✍️ I like to collaborate on great teams for new challenges which we can grow with
+- ✍️ Collaborate on great teams for new challenges which we can grow with
 
 [LinkedIn](https://www.linkedin.com/in/severinmboukou)
 
