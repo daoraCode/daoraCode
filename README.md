@@ -1,4 +1,4 @@
-- 👋🏼 Hello, I'm daoraCode
+- 👋🏼 Hello, I'm Severin
 - Passionate by UI/UX Designs and immersive websites
 - Currently working on JavaScript/VueJS/ReactJS and other ressources projects related to Web Development
 - Looking for great teams to work with amazing challenges which everyone can learn and grow with
