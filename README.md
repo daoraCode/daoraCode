@@ -1,7 +1,7 @@
 - 👋🏼 Hello, I'm Severin
 - 🎨 Passionate by UI/UX Design and immersive websites
 - 📚 Working on JavaScript/VueJS/ReactJS and project ressources related to Web Development
-- Looking for great teams to work on great products which I can contribute
+- 🚀 Looking for great teams to work on great products which I can contribute
 
 [LinkedIn](https://www.linkedin.com/in/severinmboukou/)
 
