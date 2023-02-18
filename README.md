@@ -2,7 +2,7 @@
 - 🎨 Passionate by UI/UX Design and immersive websites
 - 📚 Working on JavaScript/VueJS/ReactJS and project ressources related to Web Development
 - 🚀 Looking for great projects and creative teams which I could contribute
-- [LinkedIn](https://www.linkedin.com/in/severinmboukou/)
+- [My LinkedIn Profile](https://www.linkedin.com/in/severinmboukou/)
 
 <!---
 daoraCode/daoraCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
